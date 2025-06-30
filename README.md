@@ -31,7 +31,7 @@ To run the AutoClicker, you need:
 
 ---
 
-# Setup Instructions
+# Setup
 
 Follow these steps to set up and run the AutoClicker:
 
