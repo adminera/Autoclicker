@@ -1,5 +1,13 @@
 # Autoclicker
 
+<p align="center">
+  <a href="#Features">Features</a> •
+  <a href="#Requirements">Requirements</a> •
+  <a href="#Setup">Setup</a> •
+  <a href="#Usage">Usage</a> 
+  
+</p>
+
 <p>A simple Python-based AutoClicker application with a graphical user interface (GUI) built using Tkinter. This tool automates mouse clicks at a user-specified speed, making it useful for repetitive tasks in games, testing, or other applications requiring continuous clicking.</p>
 
 ---
