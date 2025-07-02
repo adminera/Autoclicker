@@ -1,5 +1,10 @@
 # Autoclicker
 
+<h1 align="center">
+  <img src="static/autoclicker.png" alt="autoclicker" width="150px">
+  <br>
+</h1>
+
 <p align="center">
   <a href="#Features">Features</a> •
   <a href="#Requirements">Requirements</a> •
